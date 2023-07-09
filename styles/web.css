@@ -167,6 +167,7 @@ main section {
     font-weight: 700;
     margin-buttom: 10px;
 }
+
 .resume-item-institute {
     margin-bottom: 20px;
     margin-top: 0px;
@@ -187,10 +188,21 @@ main section {
 .resume-item-description {
     color: color: #757575);
 }
+
 .resume-container hr {
     margin: 30px;
 }
+
 .download-cd {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer styles */
+footer {
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+
 }
